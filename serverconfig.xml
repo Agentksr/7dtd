@@ -15,7 +15,7 @@
   <property name="BuildCreate"				value="false" />		<!-- cheat mode on/off -->
   <property name="DayNightLength"			value="40" />			<!-- 40 minutes -->
   <property name="FriendlyFire"				value="false" />		<!-- Can friendly players damage each other (PvP) -->
-  <property name="PersistentPlayerProfiles"		value="false" />		<!-- If disabled a player can join with any selected profile. If true they will join with the last profile they joined with -->
+  <property name="PersistentPlayerProfiles"		value="true" />		<!-- If disabled a player can join with any selected profile. If true they will join with the last profile they joined with -->
   <property name="PlayerSafeZoneLevel"	    		value="5" />			<!-- If a player is less or equal this level he will create a safe zone (no enemies) when spawned -->
   <property name="PlayerSafeZoneHours"	    		value="5" />			<!-- Hours in world time this safe zone exists -->
   <property name="ControlPanelEnabled"	 		value="false"/>			<!-- Enable/Disable the control panel -->
