@@ -23,7 +23,7 @@
   <property name="ControlPanelPassword" 		value="CHANGEME"/>		<!-- Password to gain entry to the control panel -->
   <property name="TelnetEnabled"	 		value="true"/>			<!-- Enable/Disable the telnet -->
   <property name="TelnetPort" 				value="8081"/>			<!-- Port of the telnet server -->
-  <property name="TelnetPassword" 			value="5buij5i8"/>		<!-- Password to gain entry to telnet interface -->
+  <property name="TelnetPassword" 			value=""/>		<!-- Password to gain entry to telnet interface -->
   <property name="DisableNAT"				value="true"/>			<!-- set this to true if your router doesn't support NAT -->
   <property name="AdminFileName"			value="serveradmin.xml"/>	<!-- Server admin file name -->
   <property name="DropOnDeath"				value="0" />			<!-- 0 = everything, 1 = toolbelt only, 2 = backpack only, 3 = delete all -->
